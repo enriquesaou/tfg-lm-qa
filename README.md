@@ -45,6 +45,7 @@ Collection of the resources i found useful during the elaboration of my work. Th
 ### Training and hyperparameters
 - [Performance and scalability: gradient acc, FP16, ...](https://huggingface.co/docs/transformers/v4.18.0/en/performance)
 - [About training in half precision (BF16 & FP16)](https://huggingface.co/microsoft/phi-2/discussions/19#657b81a7eda715a4be3c1642)
+- [Half-precision in T5](https://discuss.huggingface.co/t/training-loss-0-0-validation-loss-nan/27950/4)
 - [About batch sizes (Nvidia)](https://docs.nvidia.com/deeplearning/performance/dl-performance-fully-connected/index.html#batch-size)
 - [About learning rate schedulers](https://www.reddit.com/r/MachineLearning/comments/oy3co1/d_how_to_pick_a_learning_rate_scheduler/)
 - [Methods and tools for efficient training on a single GPU](https://huggingface.co/docs/transformers/main/en/perf_train_gpu_one)
