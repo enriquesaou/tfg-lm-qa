@@ -71,6 +71,7 @@ Collection of the resources i found useful during the elaboration of my work. Th
 - [Some motivation](https://www.youtube.com/watch?v=GJDNkVDGM_s)
 - [SQuAD 2 and the Null Response](https://qa.fastforwardlabs.com/no%20answer/null%20threshold/bert/distilbert/exact%20match/f1/robust%20predictions/2020/06/09/Evaluating_BERT_on_SQuAD.html#The-SQuAD2.0-dev-set)
 - [CO2 Impact calculator](https://mlco2.github.io/impact/)
+- [AI yearly report](https://aiindex.stanford.edu/report/)
 
 ---
 
