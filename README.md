@@ -1,15 +1,3 @@
-* [Repositories](#Repositories)
-* [Resources](#Resources)
-	* [Courses](#Courses)
-	* [Documentation](#Documentation)
-	* [Utils](#Utils)
-	* [Tokenizers](#Tokenizers)
-	* [Training and hyperparameters](#Trainingandhyperparameters)
-	* [Evaluation](#Evaluation)
-	* [More](#More)
-
----
-
 # TFG: Language Models on Question Answering problems
 
 ![GitHub License](https://img.shields.io/github/license/enriquesaou/tfg-lm-qa) ![GitHub last commit](https://img.shields.io/github/last-commit/enriquesaou/tfg-lm-qa)
@@ -19,7 +7,17 @@ Advisor: Manuel Antonio Sánchez-Montañés Isla
 Date: June 2024
 
 ---
-
+* [Repositories](#Repositories)
+* [Resources](#Resources)
+	* [Courses](#Courses)
+	* [Documentation](#Documentation)
+	* [Utils](#Utils)
+	* [Tokenizers](#Tokenizers)
+	* [Training and hyperparameters](#Trainingandhyperparameters)
+	* [Evaluation](#Evaluation)
+	* [More](#More)
+---
+All the notebooks in this repository can be run in Google Colab session with T4 GPU.
 
 ## <a name='Repositories'></a>Repositories
 - [TFG HuggingFace Collection (datasets and models)](https://huggingface.co/collections/enriquesaou/tfg-66670a768e3ed59181581e65) 
